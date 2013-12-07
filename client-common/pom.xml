@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.awesomeware</groupId>
+		<artifactId>dm-sb-as</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>client-common</artifactId>
+	<name>DM-SB Advertising System :: Common Client Library</name>
+	<description>A common client library for functions that are common between the ad clients.</description>
+	<inceptionYear>2013</inceptionYear>
+	<url>http://www.awesomeware.org/</url>
+	<packaging>jar</packaging>
+</project>
